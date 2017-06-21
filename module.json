@@ -5,5 +5,9 @@
     "keywords": [
         "core", "office", "word", "excel"
     ],
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "humhub": {
+        "minVersion": "1.2"
+    },
+    "screenshots": ["resources/screen1.PNG", "resources/screen2.PNG", "resources/screen3.PNG", "resources/screen4.PNG"]   
 }
