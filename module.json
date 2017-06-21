@@ -1,0 +1,9 @@
+{
+    "id": "onlydocuments",
+    "name": "OnlyOffice - DocumentServer Integration",
+    "description": "Collaboratively view and edit office documents (Word, Excel or PowerPoint) in real-time.",
+    "keywords": [
+        "core", "office", "word", "excel"
+    ],
+    "version": "1.0"
+}
