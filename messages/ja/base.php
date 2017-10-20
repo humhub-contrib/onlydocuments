@@ -17,5 +17,5 @@ return array (
   'Link with enabled write access' => '',
   'Open the new document in the next step' => '',
   'You can simply share this document using a direct link. The user does not need an valid user account on the platform.' => '',
-  'e.g. https://doc.onlyoffice.com' => '',
+  'e.g. http://documentserver' => '',
 );
