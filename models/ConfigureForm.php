@@ -39,7 +39,7 @@ class ConfigureForm extends \yii\base\Model
     public function attributeHints()
     {
         return [
-            'serverUrl' => Yii::t('OnlydocumentsModule.base', 'e.g. https://doc.onlyoffice.com'),
+            'serverUrl' => Yii::t('OnlydocumentsModule.base', 'e.g. http://documentserver'),
         ];
     }
 
