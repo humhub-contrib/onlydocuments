@@ -52,9 +52,6 @@ class Module extends \humhub\components\Module
      */
     public $textExtensions = ['docx', 'doc', 'odt', 'rtf', 'txt', 'html', 'htm', 'mht', 'pdf', 'djvu', 'fb2', 'epub', 'xps'];
 
-    
-    
-    
     public function getServerUrl()
     {
         return $this->settings->get('serverUrl');
@@ -89,9 +86,7 @@ class Module extends \humhub\components\Module
      */
     public function getConfigUrl()
     {
-        return Url::to([
-                    '/onlydocuments/admin'
-        ]);
+        return Url::to(['/onlydocuments/admin']);
     }
 
     public function commandService($data)
