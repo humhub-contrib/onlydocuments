@@ -23,6 +23,7 @@ return [
     '<strong>DocumentServer</strong> successfully connected! - Installed version: {version}' => '',
     '<strong>OnlyOffice - DocumentServer</strong> module configuration' => '',
     '<strong>Share</strong> document' => '',
+    'Close' => '',
     'Copy to clipboard' => '',
     'Could not find requested file!' => '',
     'Could not find shared file!' => '',
@@ -34,5 +35,4 @@ return [
     'Open the new document in the next step' => '',
     'You can simply share this document using a direct link. The user does not need an valid user account on the platform.' => '',
     'e.g. http://documentserver' => '',
-    'Close' => 'Chiudi',
 ];
