@@ -10,4 +10,3 @@ return [
         [FileHandlerCollection::className(), FileHandlerCollection::EVENT_INIT, ['humhub\modules\onlydocuments\Events', 'onFileHandlerCollection']],
     ]
 ];
-?>
