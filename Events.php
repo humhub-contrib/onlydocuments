@@ -14,7 +14,7 @@ use humhub\modules\file\handler\FileHandlerCollection;
 /**
  * @author luke
  */
-class Events extends \yii\base\Object
+class Events
 {
 
     public static function onFileHandlerCollection($event)
