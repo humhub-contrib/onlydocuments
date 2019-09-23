@@ -12,7 +12,7 @@ return array (
   'Could not find shared file!' => '共有ファイルは見つかりませんでした',
   'File read access denied!' => 'ファイルの読み込みが拒否されました',
   'File write access denied!' => 'ファイルへの書込が拒否されました',
-  'Hostname' => '',
+  'Hostname' => 'ホスト名',
   'Link for view only access' => '',
   'Link with enabled write access' => '',
   'Open the new document in the next step' => '',
