@@ -1,13 +1,14 @@
 {
     "id": "onlydocuments",
-    "name": "OnlyOffice - DocumentServer Integration",
+    "name": "OnlyOffice Integration",
     "description": "Collaboratively view and edit office documents (Word, Excel or PowerPoint) in real-time.",
     "keywords": [
         "core", "office", "word", "excel"
     ],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "humhub": {
-        "minVersion": "1.2"
+        "minVersion": "1.3"
     },
-    "screenshots": ["resources/screen1.PNG", "resources/screen2.PNG", "resources/screen3.PNG", "resources/screen4.PNG"]   
+    "homepage": "https://github.com/humhub-contrib/onlydocuments",
+    "screenshots": ["resources/screen1.PNG", "resources/screen2.PNG", "resources/screen3.PNG", "resources/screen4.PNG"]
 }
