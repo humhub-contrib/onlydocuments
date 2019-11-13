@@ -80,6 +80,7 @@ class EditorWidget extends JsWidget
             'created-at' => Html::encode('Creator AT'),
             'document-type' => $this->documentType,
             'user-guid' => ($user) ? Html::encode($user->guid) : '',
+            'user-name' => ($user) ? Html::encode($user->displayName) : 'Anonymous',
             'user-first-name' => ($user) ? Html::encode($user->profile->firstname) : 'Anonymous',
             'user-last-name' => ($user) ? Html::encode($user->profile->lastname) : 'User',
             'user-language' => ($user) ? $user->language : 'en',

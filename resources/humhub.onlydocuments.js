@@ -108,6 +108,7 @@ humhub.module('onlydocuments', function (module, require, $) {
                 callbackUrl: this.options.backendTrackUrl,
                 user: {
                     id: this.options.userGuid,
+                    name: this.options.userName,
                     firstname: this.options.userFirstName,
                     lastname: this.options.userLastName,
                 },
