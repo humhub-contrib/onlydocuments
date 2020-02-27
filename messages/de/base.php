@@ -18,5 +18,5 @@ return array (
   'Open the new document in the next step' => 'Öffne das neue Dokument im nächsten Schritt',
   'Share' => 'Teilen',
   'You can simply share this document using a direct link. The user does not need an valid user account on the platform.' => 'Du kannst dieses Dokument einfach über einen direkten Link teilen. Der Nutzer benötigt kein gültiges Benutzerkonto auf der Plattform.',
-  'e.g. http://documentserver' => 'z.B. http://documentserver',
+  'e.g. http://documentserver' => 'z. B. http://documentserver',
 );
