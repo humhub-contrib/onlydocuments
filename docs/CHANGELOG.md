@@ -1,6 +1,13 @@
 Changelog
 =========
 
+1.0.4 (April 02, 2020)
+--------------------
+
+Marked this module as deprecated.
+Use official "OnlyOffice Connector" module instead.
+
+
 1.0.3 (November 13, 2019)
 --------------------
 - Fix #15: Username display (@verement)

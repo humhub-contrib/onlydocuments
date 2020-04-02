@@ -1,11 +1,11 @@
 {
     "id": "onlydocuments",
-    "name": "OnlyOffice Integration",
+    "name": "OnlyOffice Integration - Deprecated",
     "description": "Collaboratively view and edit office documents (Word, Excel or PowerPoint) in real-time.",
     "keywords": [
         "core", "office", "word", "excel"
     ],
-    "version": "1.0.3",
+    "version": "1.0.4",
     "humhub": {
         "minVersion": "1.3"
     },
