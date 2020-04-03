@@ -1,5 +1,3 @@
-# OnlyOffice - DocumentServer Integration
+# New Repository!
 
-Collaboratively view and edit office documents (Word, Excel or PowerPoint) in real-time.
-
-> Note: This module requires a running OnlyOffice DocumentServer instance.
+## SEE: https://github.com/ONLYOFFICE/onlyoffice-humhub
